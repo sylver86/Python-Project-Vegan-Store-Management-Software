@@ -53,7 +53,9 @@ This software provides a range of features to streamline store operations:
     Stock Verification: 
     During purchases, the software checks whether the purchased products are in stock and provides an error message if not available.
 
-    Stock Updates: When adding products to the stock, the software checks if the product is already in stock. If so, it updates the existing quantity without the need to re-enter purchase and selling prices.
+    Stock Updates: 
+    When adding products to the stock, the software checks if the product is already in stock. If so, it updates the existing quantity without the need to re-enter purchase and selling prices.
 
-    Profit Calculation: The software calculates gross profit as the total sales revenue and net profit as gross profit minus the cost of purchased products.
+    Profit Calculation: 
+    The software calculates gross profit as the total sales revenue and net profit as gross profit minus the cost of purchased products.
 
