@@ -50,7 +50,8 @@ This software provides a range of features to streamline store operations:
     Input Validation: 
     Robust input validation is in place, guaranteeing that numerical inputs are indeed numbers, and handling invalid cases with meaningful exceptions and error messages.
 
-    Stock Verification: During purchases, the software checks whether the purchased products are in stock and provides an error message if not available.
+    Stock Verification: 
+    During purchases, the software checks whether the purchased products are in stock and provides an error message if not available.
 
     Stock Updates: When adding products to the stock, the software checks if the product is already in stock. If so, it updates the existing quantity without the need to re-enter purchase and selling prices.
 
