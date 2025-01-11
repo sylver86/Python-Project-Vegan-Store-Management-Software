@@ -47,5 +47,5 @@ Welcome to the Vegan Store Management Software project, a Python-based text appl
 
 ## Explore My Code
 
-🔗 **GitHub Repository:** Dive into the codebase to experience the development journey of creating a robust and user-friendly management software tailored for a vegan store. Understand how each function plays a crucial role in the seamless operation of the software, and explore how innovative coding practices bring this application to life.
+🔗 **GitHub Repository:** Dive into the codebase (file .py) of the project.
 
